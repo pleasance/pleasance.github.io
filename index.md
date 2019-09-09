@@ -1,4 +1,21 @@
+## A list of lovely games
+
+working on it!
+
+Mobile:
+- Time Lockers
+- Evoland
+
+PC:
+- Transistor
+- The Blackout Club
+- Dead by Daylight
+- Mirror's Edge
+
 ## The dreaded mixed review.
+
+coming eventually?
+
 
 You can use the [editor on GitHub](https://github.com/pleasance/pleasance.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
