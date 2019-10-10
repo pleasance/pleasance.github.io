@@ -26,6 +26,7 @@ PC:
 - Trine 2
 - Battlerite
 - Monday Night Combat
+- ATOMEGA
 - Firefall (RIP)
 - WildStar (RIP)
 - Global Agenda (RIP)
