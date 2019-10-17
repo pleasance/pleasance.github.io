@@ -6,7 +6,11 @@ i've made a site for [lovefoxx](https://pleasance.github.io/lovefoxx/) <3
 
 and a fansite for [Ravenfall](https://ravenfall.rabbits.xyz/)
 
-
+## a list of lovely Twitch integrated games!
+- Ravenfall [official site](https://www.ravenfall.stream/) [twitch](https://twitch.tv/zerratar)
+- Choice Chamber [official site](https://choicechamber.com/) [twitch](https://www.twitch.tv/directory/game/choice%20chamber)
+- Idle Office [official site](https://ldjam.com/events/ludum-dare/45/idle-office-inc) [twitch](https://www.twitch.tv/friikydev)
+- More coming soon!
 
 ## a list of lovely games to enter my pixelated life
 
