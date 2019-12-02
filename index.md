@@ -10,6 +10,8 @@ and a fansite for [Ravenfall](https://ravenfall.rabbits.xyz/)
 - Ravenfall [official site](https://www.ravenfall.stream/) [twitch](https://twitch.tv/zerratar)
 - Choice Chamber [official site](https://choicechamber.com/) [twitch](https://www.twitch.tv/directory/game/choice%20chamber)
 - Idle Office [official site](https://ldjam.com/events/ludum-dare/45/idle-office-inc) [twitch](https://www.twitch.tv/friikydev)
+- Stream Defense [official site](http://www.streamdefense.com/) [twitch](https://www.twitch.tv/archonthewizard)
+- Twitch Plays Dungeon Raiders [twitch](https://www.twitch.tv/room_001)
 - More coming soon!
 
 ## a list of lovely games to enter my pixelated life
