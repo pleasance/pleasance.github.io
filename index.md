@@ -23,7 +23,7 @@ Mobile:
 - Evoland
 
 PC:
-- Occupy White Walls (check out my gallery, name is dinah)
+- Occupy White Walls (i have two art galleries! dinah and notdinah)
 - Transistor
 - The Blackout Club
 - Dead by Daylight
