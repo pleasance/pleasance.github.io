@@ -16,13 +16,14 @@ and a fansite for [Ravenfall](https://ravenfall.rabbits.xyz/)
 
 ## a list of lovely games to enter my pixelated life
 
-working on it!
+working on it! there are many amazing games, but these feel special.
 
 Mobile:
 - Time Lockers
 - Evoland
 
 PC:
+- Detroit Become Human
 - Occupy White Walls (i have two art galleries! dinah and notdinah)
 - Transistor
 - The Blackout Club
@@ -30,7 +31,8 @@ PC:
 - Mirror's Edge
 - Secret World Legends
 - We Happy Few
-- Trine 2
+- Trine 2 & 4!
+- World of Warcraft
 - Battlerite
 - Monday Night Combat
 - ATOMEGA
