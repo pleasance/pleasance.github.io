@@ -25,14 +25,6 @@ PC:
 - Firefall
 - WildStar
 
-## twitch! 
-
-Ravenfall is a twitch integrated idle RPG! currently in development by zerratar, and i started streaming it recently: [d1nah@twitch](https://twitch.tv/d1nah)
-
-i've made a site for [margoweirdo](https://pleasance.github.io/margoweirdo/) <3
-
-and a fansite for [Ravenfall](https://ravenfall.rabbits.xyz/)
-
 ## a list of lovely Twitch integrated games!
 - Ravenfall [official site](https://www.ravenfall.stream/) [twitch](https://twitch.tv/zerratar)
 - Choice Chamber [official site](https://choicechamber.com/) [twitch](https://www.twitch.tv/directory/game/choice%20chamber)
