@@ -1,10 +1,6 @@
 ## a list of lovely games to enter my pixelated life
 
-there are many amazing games, but these feel special. some of the below are included at [play.rabbits.xyz](https://play.rabbits.xyz/)
-
-Mobile:
-- Time Lockers
-- Evoland
+some of the below are included at [play.rabbits.xyz](https://play.rabbits.xyz/)
 
 PC:
 - Detroit Become Human
@@ -12,18 +8,24 @@ PC:
 - Transistor
 - The Blackout Club
 - Dead by Daylight
+- Last year
 - Mirror's Edge
 - Bloody Good Time
-- Secret World Legends
 - We Happy Few
 - Trine 2 & 4!
+- Secret World Legends
 - World of Warcraft
-- Battlerite
-- Monday Night Combat
-- ATOMEGA
-- Helionaut
+- The Elder Scrolls Online
 - Firefall
 - WildStar
+- Battlerite
+- Monday Night Combat
+- Helionaut
+- ATOMEGA
+
+Mobile:
+- Time Lockers
+- Evoland
 
 ## a list of lovely Twitch integrated games!
 - Ravenfall [official site](https://www.ravenfall.stream/) [twitch](https://twitch.tv/zerratar)
