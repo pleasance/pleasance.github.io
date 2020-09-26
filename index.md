@@ -1,17 +1,3 @@
-## twitch! 
-
-Ravenfall is a twitch integrated idle RPG! currently in development by zerratar, and i started streaming it recently: [d1nah@twitch](https://twitch.tv/d1nah)
-
-i've made a site for [lovefoxx](https://pleasance.github.io/lovefoxx/) <3
-
-and a fansite for [Ravenfall](https://ravenfall.rabbits.xyz/)
-
-## a list of lovely Twitch integrated games!
-- Ravenfall [official site](https://www.ravenfall.stream/) [twitch](https://twitch.tv/zerratar)
-- Choice Chamber [official site](https://choicechamber.com/) [twitch](https://www.twitch.tv/directory/game/choice%20chamber)
-- Stream Defense [official site](http://www.streamdefense.com/) [twitch](https://www.twitch.tv/archonthewizard)
-- Twitch Plays Dungeon Raiders [twitch](https://www.twitch.tv/room_001)
-
 ## a list of lovely games to enter my pixelated life
 
 there are many amazing games, but these feel special. some of the below are included at [play.rabbits.xyz](https://play.rabbits.xyz/)
@@ -35,6 +21,20 @@ PC:
 - Battlerite
 - Monday Night Combat
 - ATOMEGA
-- Firefall (RIP)
-- WildStar (RIP)
-- Global Agenda (RIP)
+- Helionaut
+- Firefall
+- WildStar
+
+## twitch! 
+
+Ravenfall is a twitch integrated idle RPG! currently in development by zerratar, and i started streaming it recently: [d1nah@twitch](https://twitch.tv/d1nah)
+
+i've made a site for [margoweirdo](https://pleasance.github.io/margoweirdo/) <3
+
+and a fansite for [Ravenfall](https://ravenfall.rabbits.xyz/)
+
+## a list of lovely Twitch integrated games!
+- Ravenfall [official site](https://www.ravenfall.stream/) [twitch](https://twitch.tv/zerratar)
+- Choice Chamber [official site](https://choicechamber.com/) [twitch](https://www.twitch.tv/directory/game/choice%20chamber)
+- Stream Defense [official site](http://www.streamdefense.com/) [twitch](https://www.twitch.tv/archonthewizard)
+- Twitch Plays Dungeon Raiders [twitch](https://www.twitch.tv/room_001)
