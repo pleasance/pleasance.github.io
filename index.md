@@ -9,14 +9,12 @@ and a fansite for [Ravenfall](https://ravenfall.rabbits.xyz/)
 ## a list of lovely Twitch integrated games!
 - Ravenfall [official site](https://www.ravenfall.stream/) [twitch](https://twitch.tv/zerratar)
 - Choice Chamber [official site](https://choicechamber.com/) [twitch](https://www.twitch.tv/directory/game/choice%20chamber)
-- Idle Office [official site](https://ldjam.com/events/ludum-dare/45/idle-office-inc) [twitch](https://www.twitch.tv/friikydev)
 - Stream Defense [official site](http://www.streamdefense.com/) [twitch](https://www.twitch.tv/archonthewizard)
 - Twitch Plays Dungeon Raiders [twitch](https://www.twitch.tv/room_001)
-- More coming soon!
 
 ## a list of lovely games to enter my pixelated life
 
-working on it! there are many amazing games, but these feel special.
+there are many amazing games, but these feel special. some of the below are included at [play.rabbits.xyz](https://play.rabbits.xyz/)
 
 Mobile:
 - Time Lockers
@@ -29,6 +27,7 @@ PC:
 - The Blackout Club
 - Dead by Daylight
 - Mirror's Edge
+- Bloody Good Time
 - Secret World Legends
 - We Happy Few
 - Trine 2 & 4!
